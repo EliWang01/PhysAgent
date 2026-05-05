@@ -10,3 +10,4 @@ papers/
 .pytest_cache/
 .idea/
 rag_repo/
+.gitignore
